@@ -1,0 +1,8 @@
+streamlit
+tempfile
+os
+agno
+chroma
+ollama
+pdfreader
+pypdf
